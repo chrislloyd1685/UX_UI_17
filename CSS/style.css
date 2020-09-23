@@ -1,0 +1,245 @@
+.content{
+    min-height: 400px;
+    margin: 50px 50px 50px 50px;
+
+}
+
+
+.body{
+    font-family: 'Proxima Nova', sans-serif;
+    color: #001B36;
+    background-color: #FAF9F8;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.nav{
+    background-color: white;
+    background-size: 100%;
+    height: 80px;
+    width: 90%;
+    margin: 20px 50px 20px 50px;
+    display: inline-block;
+}
+.separaator {
+  width: 750;
+}
+
+.rightnav{
+    margin-right: 0px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+
+a:link{
+    color: #363636;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #363636;
+}
+
+a:hover{
+    color: #F0D17E;
+}
+
+
+.navLinks{
+    font-size: 22px;
+    font-weight: 600;
+    padding: 16px 24px;
+    float: right;
+}
+
+.button{
+    background-color: #6f66be;
+    border-radius: 35px;
+    border: 3px solid #6f66be;
+    color: #FFFFFF;
+}
+
+.button:hover{
+    background-color: #F5F4FF;
+    border: 3px solid #6f66be;
+    color: #6f66be;
+    text-decoration: none !important;
+}
+
+#contact-button{
+    color: #ffffff;
+}
+
+#contact-button:hover{
+    color: #6f66be;
+}
+
+
+#logo{
+    font-size: 48px;
+    font-weight: 300;
+    float: left;
+}
+
+.hero{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.hero1{
+    font-size: 64px;
+    font-weight: 400;
+    text-align: center;
+    margin: 10px;
+}
+
+.hero2{
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    margin: 5px;
+}
+
+.mainHeader{
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+#workTitle{
+    width: 200px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+.downArrow{
+    width: 80px;
+}
+
+h1{
+    font-size: 36px;
+    font-weight: 600;
+}
+
+h2{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+h3{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+
+
+.bodyText{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: right;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.description{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.CaseStudies{
+    width: 90%;
+    padding: 50px 0px 50px 0px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.HeroImage{
+    width: 50%;
+    padding: 0px 10px 0px 10px;
+    margin: 0px;
+    display: inline-block;
+}
+.HeroImagePic{
+    width: 20%;
+    padding: 0px 10px 0px 10px;
+    margin: 0px;
+
+    display: inline-block
+  }
+
+.HeroImageText{
+    width: 100%;
+    padding: 0px 10px 0px 10px;
+    margin: 0px;
+    text-align: left;
+    justify-content: right;
+
+}
+.rectangleBackgourndPic{
+  width: 125%;
+  padding: 0px 10px 0px 10px;
+  margin: 0px;
+
+  display: inline-block;
+}
+
+.caseStudiesPic{
+    width: 50%;
+    padding: 0px 10px 0px 10px;
+    margin: 0px;
+
+    display: inline-block;
+}
+.caseStudiesPicCubby{
+    width: 20%;
+    padding: 0px 10px 0px 10px;
+    margin: 0px;
+
+    display: inline-block;
+}
+
+.caseStudiesText{
+    width: 100%;
+    padding: 0px 10px 0px 10px;
+    margin: 0px;
+    text-align: center;
+
+}
+
+.caseStudyButton{
+    background-color: #ffffff;
+    border-radius: 35px;
+    padding: 16px 30px 16px 30px;
+    box-shadow: 0px 0px 10px 0px #9792c4;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.caseStudyButton:hover{
+    background-color: #6f66be;
+    color: #ffffff;
+    box-shadow: 0px 0px 0px 0px;
+}
+
+.footer{
+    height: 40px;
+    width: 100%;
+    background-color: #ffffff;
+    position: relative;
+    bottom: 0px;
+    left: 0px;
+    color: #363636;
+    text-align: center;
+
+}
